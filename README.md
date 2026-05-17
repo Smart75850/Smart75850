@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm SMART
 
-<!--
-**Smart75850/Smart75850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 **Building:** [AI Solo Kit](https://aisolotools.com) — The most comprehensive AI toolkit review site for one-person businesses.
 
-Here are some ideas to get you started:
+🎯 **Mission:** Helping solo founders build, grow, and monetize with AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I'm Working On
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🧰 [AI Solo Kit](https://aisolotools.com) | 120+ AI tools reviewed for solopreneurs | 🚀 Building |
+| 💬 [FlirtCheck](https://flirtchecker.com) | AI flirt detection tool | 🔨 Coming Soon |
+
+---
+
+## 🛠️ AI Tools I Use Daily
+
+- **Code:** Claude Code, Cursor
+- **Automation:** n8n, Make
+- **Content:** ChatGPT, Canva AI
+- **Hosting:** Cloudflare, SiteGround
+
+---
+
+## 📱 Follow My Journey
+
+- 🌐 [aisolotools.com](https://aisolotools.com)
+- 📕 小红书: SMART
+- 🎵 抖音: SMART
+
+---
+
+> One person + AI = one company. I'm proving it.
